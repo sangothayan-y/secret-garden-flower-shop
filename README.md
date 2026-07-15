@@ -1,4 +1,4 @@
-# Secret Garden — Flower Shop Website html 
+# Secret Garden — Flower Shop Website 
 
 A responsive flower shop landing page built as a **group project**, featuring a hero section, about section with video, product showcase, customer reviews, and contact section.
 
